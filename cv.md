@@ -1,27 +1,59 @@
             Inna Sodri 
-* turorainna@gmail.com
-* Linkedin https://www.linkedin.com/in/inna-
-sodri-303a97256/
+# Inna Sodri
 
-English Literature
-Kyiv,Ukraine Linguistic University September 2007 | June 2012
-• B.A. of Languages and Linguistics in English Language and Literature. GPA: 4.4
+## Contact Information
+- Email: [turorainna@gmail.com](mailto:turorainna@gmail.com)
+- LinkedIn: [Inna Sodri](https://www.linkedin.com/in/inna-sodri-303a97297256/)
 
-*• Languages: JavaScript, CSS, HTML, Terraform, SQL ,BAsh ,Linux
-• Platforms: VSCode, Cisco Packet Tracer, PyCharm, Valentina Studio, Postgres, GitHub, VM Ma-
-chines, Terminal, PowerShell
-• Cloud: AWS, AZURE
-• Networking: TCP/IP, HTTP, DNS, DHCP, OSPF, RIP, EIGRP, Troubleshooting, Ipv4
-• Windows Server:
-Certificates
-• AWS Cloud Architect Have demonstrated solution building knowledge using a broad set of AWS
-services. acquired hands-on experience building secure, fault tolerant and highly available AWS
-solutions. AWS
-• System Administration System Administration,can configure Windows Servers ,Troubleshoot
-and deploy Microsoft and LinkedIn
-• Terraform Provisioning and managing infrastructure in a cloud. ZTM
-• FrontEnd Development HTML,CSS JavaScript FrontEnd Development CanSheCode
-• Complete SQL+Database Organize structured sets of data ZTM
-• Cybersecurity (In Progress) Networking for cyber-Security, Windows Server, Linux, Cyber
-Infrastracture, Web Penetration testing,Mobile penetration testing,python, SOC, Incident Response
--IAI Tame Range,AI for Penetration testing TESI- -ICCP
+## Education
+**English Literature**  
+Kyiv, Ukraine Linguistic University  
+September 2007 - June 2012  
+- B.A. of Languages and Linguistics in English Language and Literature  
+- GPA: 4.4
+
+## Experience
+**NOC Engineer**  
+MoovingOn  
+[Start Date] - Present  
+- Responsible for monitoring and maintaining network infrastructure.
+- Troubleshoot and resolve network issues in a timely manner.
+- Collaborate with cross-functional teams to ensure optimal network performance.
+
+## Skills
+### Languages
+- JavaScript
+- CSS
+- HTML
+- Terraform
+- SQL
+- Bash
+- Linux
+
+### Platforms
+- VSCode
+- Cisco Packet Tracer
+- PyCharm
+- Valentina Studio
+- Postgres
+- Terminal
+- PowerShell
+
+### Cloud
+- AWS
+- Azure
+
+### Networking
+- TCP/IP
+- HTTP
+- DNS
+- DHCP
+- OSPF
+- RIP
+- EIGRP
+- Troubleshooting
+- IPv4
+
+### Certifications
+- **AWS Cloud Architect**  
+  Demonstrated solution-building knowledge using a broad range of services. Acquired hands-on experience building secure, fault-tolerant, and high-availability solutions.
