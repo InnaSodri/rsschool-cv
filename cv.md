@@ -1,5 +1,4 @@
             Inna Sodri 
-# Inna Sodri
 
 ## Contact Information
 - Email: [turorainna@gmail.com](mailto:turorainna@gmail.com)
@@ -57,6 +56,14 @@ MoovingOn
 ### Certifications
 - **AWS Cloud Architect**  
   Demonstrated solution-building knowledge using a broad range of services. Acquired hands-on experience building secure, fault-tolerant, and high-availability solutions.
+• System Administration System Administration,can configure Windows Servers ,Troubleshoot
+and deploy Microsoft and LinkedIn
+• Terraform Provisioning and managing infrastructure in a cloud. ZTM
+• FrontEnd Development HTML,CSS JavaScript FrontEnd Development CanSheCode
+• Complete SQL+Database Organize structured sets of data ZTM
+• Cybersecurity (In Progress) Networking for cyber-Security, Windows Server, Linux, Cyber
+Infrastracture, Web Penetration testing,Mobile penetration testing,python, SOC, Incident Response
+-IAI Tame Range,AI for Penetration testing TESI- -ICCP
 • System Administration System Administration,can configure Windows Servers ,Troubleshoot
 and deploy Microsoft and LinkedIn
 • Terraform Provisioning and managing infrastructure in a cloud. ZTM
